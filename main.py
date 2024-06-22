@@ -1,5 +1,6 @@
-import services.service
 from fastapi import FastAPI
+
+import services.service
 
 app = FastAPI()
 

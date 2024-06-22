@@ -1,5 +1,5 @@
-from transformers import pipeline
 from bs4 import BeautifulSoup
+from transformers import pipeline
 
 
 def get_context_from_html(html_content):
